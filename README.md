@@ -1,2 +1,7 @@
 # odin-recipes
-The Odin Project recipe assignment.
+## The Odin-recipes project.
+
+***
+
+### Description
+Basic HTML website.

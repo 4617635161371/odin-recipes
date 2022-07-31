@@ -1,6 +1,25 @@
 body {
     background-color: aquamarine;
     color: black;
+}
+
+p {
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+ul {
+    text-align: center;
+}
+
+ol {
     text-align: center;
 }
 

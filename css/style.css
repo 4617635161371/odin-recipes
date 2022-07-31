@@ -1,4 +1,21 @@
-* {
+body {
     background-color: aquamarine;
     color: black;
+}
+
+h1 {
+    text-align: center;
+}
+
+ul {
+    text-align: center;
+    font-size: 23px;
+}
+
+.humanBrain {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+    height: 420px;
 }

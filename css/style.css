@@ -3,16 +3,53 @@ body {
     color: black;
 }
 
+p {
+    text-align: center;
+}
+
 h1 {
+    text-align: center;
+}
+
+h3 {
     text-align: center;
 }
 
 ul {
     text-align: center;
-    font-size: 23px;
+    
+}
+
+ol {
+    text-align: center;
+    
 }
 
 .humanBrain {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+    height: 420px;
+}
+
+.blackRice {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+    height: 420px;
+}
+
+.shrimpFettuccineAlfredo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+    height: 420px;
+}
+
+.lambSliders {
     display: block;
     margin-left: auto;
     margin-right: auto;
